@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on kubernetes.
+- 🌱 I’m currently learning AWS cloud.
+- 👯 I’m looking to collaborate on devops and AWS cloud communities.
+- 🤔 I’m looking for help with K8s.
+- 💬 Ask me about DevOps and Amazon Cloud Services.
+- 📫 How to reach me: pundhir1111@gmail.com
+- ⚡ Fun fact: Devopes is fun.
+
 <!--
 **pundhir1111/pundhir1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
