@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning AWS cloud.
-- 👯 I’m looking to collaborate on devops and AWS cloud communities.
+- 👯 I’m looking to collaborate on DevOps and Amazon Web Services communities.
 - 🤔 I’m looking for help with K8s.
 - 💬 Ask me about DevOps and Amazon Cloud Services.
 - 📫 How to reach me: pundhir1111@gmail.com
